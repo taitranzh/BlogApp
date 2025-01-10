@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="otp_expired">Mã OTP đã hết hiệu lực.</string>
+    <string name="otp_invalid">Mã OTP chưa chính xác. Vui lòng thử lại.</string>
+</resources>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_edit"
+            android:popupBackground="@color/white"
+            android:title="Chỉnh sửa" />
+        <item
+            android:id="@+id/action_delete"
+            android:popupBackground="@color/white"
+            android:title="Xóa" />
+    </group>
+</menu>
